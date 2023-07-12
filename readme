@@ -1,0 +1,2 @@
+This is a model that uses SVM to further predict breast cancer cells as malevolent/benign
+Techniques like Ridge Regression as regularization, GridSearch to tune parameters, etc. are used and the prospect of using PCA is explored.
